@@ -29,3 +29,13 @@ This is a simple Python project that fetches real-time weather data for any city
 2. Replace this line in code:
 ```python
 api_key = "YOUR_API_KEY"
+
+##SAMPLE OUTPUT
+Enter city name: Chennai
+
+🌤 Weather Report
+------------------------
+City: Chennai
+Temperature: 32 °C
+Condition: Partly cloudy
+Wind Speed: 14 km/h
